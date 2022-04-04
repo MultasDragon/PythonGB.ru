@@ -1,0 +1,1 @@
+**VirtualBox** Properties -> Network -> Attached to: "Bridged Adapter" - надо поиграться, чтобы узнать детали - зависит от конфигурации ^network-preferences

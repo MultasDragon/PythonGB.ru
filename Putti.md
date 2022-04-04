@@ -1,0 +1,1 @@
+**Putty** Session -> Host Name (or IP address): "*username*@*IP address*", Port: "*client port*", Connection type: "SSH" -> Open -> Enter password ^start-ssh
