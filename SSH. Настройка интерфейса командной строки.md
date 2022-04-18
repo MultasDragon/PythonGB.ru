@@ -1,4 +1,4 @@
-#linux #SSH #file_management
+[[linux]] [[SSH]] [[file_management]]
 [[Commands#^systemctl|systemctl]], [[Commands#^enable|enable]], [[Commands#^status|status]], [[Commands#^hostname-I|hostname -I]], [[Commands#^ip-addr|ip addr]], [[Commands#^whoami|whoami]], [[Commands#^echo|echo]], [[Commands#^clear|clear]]
 [[_TOC_]]
 
